@@ -15,18 +15,18 @@ export default function Hero() {
         <div className="max-w-3xl">
           <div className="fade-up mb-5 inline-flex max-w-full items-center gap-2 rounded-full border border-orange-500/25 bg-orange-500/10 px-3 py-2 text-[10px] font-bold uppercase tracking-[0.22em] text-orange-300 sm:mb-6 sm:px-4 sm:text-xs sm:tracking-[0.28em]">
             <span className="h-2 w-2 rounded-full bg-orange-500" />
-            Dijagnostika, servis i odrzavanje
+            Dijagnostika, servis i održavanje
           </div>
 
           <h1 className="fade-up-delay-1 mb-5 max-w-[13ch] text-[2.5rem] font-black leading-[0.92] tracking-[-0.04em] sm:mb-6 sm:max-w-3xl sm:text-5xl lg:text-7xl">
             Servis koji
-            <span className="block text-orange-400">vraca sigurnost</span>
-            vasem vozilu
+            <span className="block text-orange-400">vraća sigurnost</span>
+            vašem vozilu
           </h1>
 
           <p className="fade-up-delay-2 mb-7 max-w-xl text-[15px] leading-7 text-white/78 sm:mb-8 sm:text-xl sm:leading-9">
-            Odrzavanje, popravci i dijagnostika svih marki vozila uz posten pristup,
-            jasnu komunikaciju i rad na koji se mozete osloniti.
+            Održavanje, popravci i dijagnostika svih marki vozila uz pošten pristup,
+            jasnu komunikaciju i rad na koji se možete osloniti.
           </p>
 
           <div className="fade-up-delay-3 flex max-w-md flex-col gap-3 sm:flex-row sm:items-center sm:gap-4">
