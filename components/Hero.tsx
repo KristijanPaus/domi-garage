@@ -58,7 +58,7 @@ export default function Hero() {
             <div className="rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-4 backdrop-blur-sm sm:px-4">
               <p className="text-2xl font-extrabold text-white">Brzo</p>
               <p className="mt-1 text-xs uppercase tracking-[0.18em] text-white/55 sm:text-sm">
-                Posteno i jasno
+                Pošteno i jasno
               </p>
             </div>
           </div>
