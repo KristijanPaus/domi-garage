@@ -3,7 +3,7 @@ import Image from "next/image";
 import { Menu, X } from "lucide-react";
 
 const links = [
-  { label: "Pocetna", href: "/#pocetna" },
+  { label: "Početna", href: "/#pocetna" },
   { label: "Usluge", href: "/#usluge" },
   { label: "O nama", href: "/#onama" },
   { label: "Galerija", href: "/#galerija" },
