@@ -18,7 +18,7 @@ export default function About() {
         <Reveal>
           <div className="relative min-h-[320px] overflow-hidden rounded-3xl border border-white/10 sm:min-h-[420px] lg:min-h-[520px]">
             <Image
-              src="/about-garage.jpeg"
+              src="/about-garage.png"
               alt="DOMI Garage & Service radionica"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"

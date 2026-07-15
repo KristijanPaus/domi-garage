@@ -7,9 +7,9 @@ import Image from "next/image";
 const images = [
   "/gallery-11.png",
   "/gallery-22.png",
-  "/gallery-3.jpeg",
-  "/gallery-4.jpeg",
-  "/gallery-5.jpeg",
+  "/gallery-44.png",
+  "/gallery-66.png",
+  "/gallery-55.jpg",
   "/gallery-33.png",
 ];
 

@@ -46,14 +46,22 @@ const sections = [
     ],
   },
   {
-    title: "6. Prava korisnika",
+    title: "6. Kolacici",
+    content: [
+      "Ova web stranica trenutno ne koristi analiticke ni marketinske kolacice poput alata za pracenje posjeta, oglasavanja ili remarketinga.",
+      "Moguce je da hosting i tehnicka infrastruktura koriste iskljucivo nuzne tehnicke mehanizme potrebne za sigurnost, stabilan rad stranice i osnovnu isporuku sadrzaja.",
+      "Ako se u buducnosti uvedu analiticki, marketinski ili drugi nenuzni kolacici, korisnici ce prije njihove aktivacije biti obavijesteni na odgovarajuci nacin, a ova pravila privatnosti bit ce azurirana.",
+    ],
+  },
+  {
+    title: "7. Prava korisnika",
     content: [
       "Korisnik moze zatraziti pristup svojim podacima, ispravak netocnih podataka, brisanje, ogranicenje obrade ili prigovor na obradu kada su za to ispunjeni zakonski uvjeti.",
       "Korisnik takoder ima pravo podnijeti prigovor nadleznom tijelu za zastitu osobnih podataka u Republici Hrvatskoj.",
     ],
   },
   {
-    title: "7. Kontakt",
+    title: "8. Kontakt",
     content: [
       "Za pitanja vezana uz privatnost i obradu podataka mozete nas kontaktirati putem podataka objavljenih na ovoj web stranici ili telefonom na +385 91 791 2760.",
     ],
