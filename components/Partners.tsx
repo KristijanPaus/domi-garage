@@ -23,14 +23,14 @@ export default function Partners() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <Reveal className="mb-10 text-center sm:mb-12">
           <p className="mb-3 text-sm font-bold uppercase tracking-[0.3em] text-orange-500">
-            Nasi partneri
+            Naši partneri
           </p>
           <h2 className="mb-4 text-3xl font-extrabold sm:text-4xl md:text-5xl">
             Suradnja s provjerenim imenima
           </h2>
           <p className="mx-auto max-w-3xl text-base leading-7 text-white/68 sm:text-lg sm:leading-8">
-            Kvalitetan servis ne cini samo dobar rad, nego i pouzdani partneri,
-            provjereni dijelovi i proizvodi iza kojih mozemo stati bez rezerve.
+            Kvalitetan servis ne čini samo dobar rad, nego i pouzdani partneri,
+            provjereni dijelovi i proizvodi iza kojih možemo stati bez rezerve.
           </p>
         </Reveal>
 

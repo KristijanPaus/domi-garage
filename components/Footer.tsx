@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid gap-8 lg:grid-cols-[1.1fr_0.85fr]">
           <div className="rounded-[2rem] border border-white/10 bg-white/[0.03] p-6">
             <p className="mb-4 text-sm font-bold uppercase tracking-[0.24em] text-orange-500">
-              Podaci o drustvu
+              Podaci o društvu
             </p>
             <div className="grid gap-4 text-sm leading-7 text-white/72 sm:grid-cols-2">
               <div>
@@ -20,16 +20,16 @@ export default function Footer() {
                 <p>81935359858</p>
               </div>
               <div>
-                <p className="font-semibold text-white">Sjediste drustva</p>
+                <p className="font-semibold text-white">Sjedište društva</p>
                 <p>Ulica Puhali 30, Kalinovica</p>
               </div>
               <div>
                 <p className="font-semibold text-white">NKD</p>
-                <p>T95310 - Popravak i odrzavanje motornih vozila</p>
+                <p>T95310 - Popravak i održavanje motornih vozila</p>
               </div>
               <div>
                 <p className="font-semibold text-white">Registarsko tijelo</p>
-                <p>Trgovacki sud u Zagrebu</p>
+                <p>Trgovački sud u Zagrebu</p>
               </div>
               <div>
                 <p className="font-semibold text-white">MBS</p>
@@ -37,7 +37,7 @@ export default function Footer() {
               </div>
               <div className="sm:col-span-2">
                 <p className="font-semibold text-white">Temeljni kapital</p>
-                <p>2.500 EUR, uplacen u cijelosti</p>
+                <p>2.500 EUR, uplaćen u cijelosti</p>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 flex flex-col gap-3 border-t border-white/10 pt-6 text-sm text-white/45 sm:flex-row sm:items-center sm:justify-between">
-          <p>© 2026 EDER AUTO SERVIS d.o.o. Sva prava pridrzana.</p>
+          <p>© 2026 EDER AUTO SERVIS d.o.o. Sva prava pridržana.</p>
           <div className="flex flex-col gap-2 sm:items-end">
             <div className="flex flex-wrap gap-4">
               <Link href="/pravila-privatnosti" className="transition hover:text-orange-400">

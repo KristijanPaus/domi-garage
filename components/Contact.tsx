@@ -35,8 +35,8 @@ export default function Contact() {
             Javite nam se i rezervirajte termin
           </h2>
           <p className="text-base leading-7 text-white/70 sm:text-lg sm:leading-8">
-            Ako zelite redovni servis, dijagnostiku ili pregled vozila, javite se i brzo
-            cemo dogovoriti termin koji vam odgovara.
+            Ako želite redovni servis, dijagnostiku ili pregled vozila, javite se i brzo
+            ćemo dogovoriti termin koji vam odgovara.
           </p>
         </Reveal>
 

@@ -39,7 +39,7 @@ export default function About() {
             </h2>
 
             <p className="mb-6 text-base leading-7 text-white/70 sm:text-lg sm:leading-8">
-              DOMI Garage & Service pruža kvalitetan servis, dijagnostiku i
+              Garage & Service DOMI pruža kvalitetan servis, dijagnostiku i
               održavanje vozila uz stručan pristup i korektan odnos prema svakom
               klijentu.
             </p>
