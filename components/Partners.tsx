@@ -15,6 +15,14 @@ const partners = [
     name: "Tehnolub",
     logo: "/Tehnolub.jpg",
   },
+  {
+    name: "Motul",
+    logo: "/motul-logo.png",
+  },
+  {
+    name: "Valint",
+    logo: "/valint-logo.png",
+  },
 ];
 
 export default function Partners() {
@@ -34,7 +42,7 @@ export default function Partners() {
           </p>
         </Reveal>
 
-        <div className="grid gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3">
+        <div className="grid gap-4 sm:grid-cols-2 sm:gap-5 lg:grid-cols-3 xl:grid-cols-5">
           {partners.map((partner, index) => (
             <Reveal key={partner.name} delayMs={index * 90}>
               <div className="group flex min-h-[170px] items-center justify-center rounded-[2rem] border border-white/10 bg-gradient-to-b from-white/[0.06] to-white/[0.02] px-6 py-8 transition duration-300 hover:-translate-y-1 hover:border-orange-500/50 hover:bg-white/[0.05] active:border-orange-500/50 active:bg-white/[0.05]">
