@@ -108,6 +108,13 @@ textarea {
   transform: translateY(0);
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal-visible {
+    transition: none;
+  }
+}
+
 @media (max-width: 768px) {
   .reveal {
     opacity: 1;
